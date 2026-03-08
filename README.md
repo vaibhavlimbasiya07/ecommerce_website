@@ -1,6 +1,8 @@
 Here is my project.
 
-To use this upload this all files create a folder ecommerce-website in Xampp in htdocs folder.
+create a folder ecommerce-website in Xampp in htdocs folder
+
+then upload this all files in this folder.
 
 visit this url http://localhost/phpmyadmin/ and create a database called db.
 
